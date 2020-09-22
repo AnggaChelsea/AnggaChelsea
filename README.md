@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="">Uploading...<img alt=""></a>
-<a href="https://www.linkedin.com/in/angga-lesmana-19466a190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Angga%20Lesmana%20?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/angga-lesmana-19466a190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Angga%20Lesmana%20github-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:freelancerw9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-freelancerw9@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
