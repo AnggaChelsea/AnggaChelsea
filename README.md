@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Information System at University of Nusa Putra.
-- 💼 &nbsp; Experienced Work at Marketz.id as a front-end engineer .& Freekancer have been 2 years
+- 💼 &nbsp; Experienced Work at Marketz.id as a front-end engineer .& Freelancer have been 2 years
 - 🌱 &nbsp; Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
 
 <h3>🛠 Tech Stack</h3>
