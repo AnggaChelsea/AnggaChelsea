@@ -25,5 +25,7 @@
 <a href="https://www.linkedin.com/in/angga-lesmana-19466a190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Angga%20Lesmana%20github-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:freelancerw9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-freelancerw9@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
+<p>
+  <a href="https://gitlab.com/AnggaChelsea">My Gitlab</a> 
+</p>
 ⭐️ From [Angga Lesmana](https://github.com/AnggaChelsea)
