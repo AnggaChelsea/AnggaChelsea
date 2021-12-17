@@ -9,10 +9,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | CodeIgniter | Laravel |
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Angular
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown |
+- 💻 &nbsp; PHP | CodeIgniter | Laravel | Golang | Python
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Angular | Vuejs | Reactjs
+- 🛢 &nbsp; MySQL | MongoDB | Postgres
+- 🔧 &nbsp; Git | Gitlab | Bitbucket
 - 🖥 &nbsp; UI / UX | Figma | Canva | AdobeXD
 
 <br/>
