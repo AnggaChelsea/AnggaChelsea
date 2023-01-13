@@ -1,6 +1,6 @@
 <h2>Hallo There</h2>
 <p> 
-I am Angga a graduate of information system undergraduate,
+I am Angga a graduate of information system bachelor degree,
 I love my job as a Software Engineer, I have 2 years of experience in the field of Software Engineer,
 i really like learning new science, especially in the world of technology
 </p>
