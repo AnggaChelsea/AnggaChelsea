@@ -1,4 +1,9 @@
-<h2> Hey there! I'm Angga Lesmana as Full - stack Developer.</h2>
+<h2>Hallo There</h2>
+<p> 
+I am Angga a graduate of information system undergraduate,
+I love my job as a Software Engineer, I have 2 years of experience in the field of Software Engineer,
+i really like learning new science, especially in the world of technology
+</p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
