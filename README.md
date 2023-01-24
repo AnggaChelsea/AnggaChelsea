@@ -5,7 +5,7 @@ I love my job as a Software Engineer, I have 2 years of experience in the field 
 i really like learning new science, especially in the world of technology
 </p>
 portfolio
-<a href="https://portfolio-and-blog-vert.vercel.app/">Check</a>
+<a target="_blank" href="https://portfolio-and-blog-vert.vercel.app/">Check</a>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
